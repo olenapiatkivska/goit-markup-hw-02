@@ -41,9 +41,6 @@ img {
 .menu-link:focus {
   color: #404bbf;
 }
-.menu-link.active {
-  color: #404bbf;
-}
 .contact-blok {
   font-style: normal;
 }
