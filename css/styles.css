@@ -60,7 +60,6 @@ img {
   background: #2e2f42;
 }
 .main-title {
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -92,25 +91,15 @@ img {
   letter-spacing: 0.02em;
 }
 .our-team-title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  text-align: center;
-  color: #2e2f42;
-}
-.our-team {
-  background: #f4f4fd;
-}
-.our-team-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
+}
+.our-team {
+  background-color: #f4f4fd;
 }
 .our-team-fullname {
   font-weight: 500;
@@ -128,7 +117,6 @@ img {
   color: #434455;
 }
 .portfolio-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -159,6 +147,7 @@ img {
   color: #f4f4fd;
 }
 .logo-footer {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.16667;
